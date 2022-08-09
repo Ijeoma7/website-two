@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+header {
+
+}
+ul {
+    padding: 60px;
+    background-color: grey;
+    margin: 0;
+    font-size: 28px;
+}
+
+li {
+    display: inline;
+    
+}
+li a 
+{
+    
+    color: antiquewhite;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+/* change the link color on hover */
+
+li a:hover {
+background-color: burlywood;
+color: black;
+}
+
+h1 {
+    padding-top: 50px;
+    padding-bottom: 12px;
+}
+
+.image1, .image2, .image3 {
+    display: inline;
+    margin: 30px;
+}
+
+input[type=text], select, textarea {
+    margin-top: 4px;
+    margin-bottom: 8px;
+    box-sizing: border-box;
+}
+
+textarea {
+    padding: 40px;
+}
+
+form {
+    margin-bottom: 10px;
+}
+
+
+
+
